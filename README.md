@@ -466,11 +466,15 @@ END
 
 #  Debugging-Test-run:
 
- (The Test-run and result part of the report contains detailed method of testing, assuring that the code is fool-proof and fully debugged.) 
+ ![the 11](https://user-images.githubusercontent.com/92621862/193454769-195254bf-8b52-4224-87ce-c0460ed7fd39.PNG)
  
- ![the 1](https://user-images.githubusercontent.com/92621862/193395936-40f42a70-f67b-470f-bf6e-ced8823e0e09.PNG)
- 
- ![the 2](https://user-images.githubusercontent.com/92621862/193395938-e417223a-93d4-43c8-b1d6-656f4a992f40.PNG)
+![the 22](https://user-images.githubusercontent.com/92621862/193454770-51cad50a-fa56-4d72-a68e-3521039ddf33.PNG)
+
+![the 44](https://user-images.githubusercontent.com/92621862/193454774-10ccf576-115e-4ad6-b3b9-d3c58560f645.PNG)
+
+![the 55](https://user-images.githubusercontent.com/92621862/193454776-0720c1eb-df6c-40cc-ab9f-b775a8aca635.PNG)
+
+![the33](https://user-images.githubusercontent.com/92621862/193454777-f50aeadc-c384-4999-832c-3bce4a8d08db.PNG)
 
 
 
